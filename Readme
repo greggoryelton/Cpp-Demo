@@ -1,0 +1,19 @@
+Name: Greggory Elton
+Student Number: 101038024
+
+
+Source Files: Control.cc Control.h main.cc Property.h Record.cc Record.h ReportGenerator.cc 
+ReportGenerator.h View.cc View.h grad.dat
+
+Compilation and Launching Instructions:
+'make' creates an executable 'fp'.
+To compile simply enter "make". To run the program enter "./fp".
+To delete objects enter "make clean".
+
+Additional Reports:
+
+I did not implement any new reports as I ran out of time, however I did want to compare how many students that graduated went on to do their masters 5 years later.
+
+Notes:
+Sometimes my program crashes when trying report 3 after another report has been displayed
+
